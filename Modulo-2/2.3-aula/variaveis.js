@@ -1,3 +1,10 @@
+/**
+ * arquivo: variaveis.js
+ * descrição: explicação de como podemos usar variaveis em JavaScript
+ * author: Glaucia Lemos - twitter: glaucia_lemos86
+ * data: 25/12/2020
+ */
+
 // Uso de variáveis em JavaScript
 
 // SOMA = num1 + num2
