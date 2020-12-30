@@ -7,6 +7,18 @@
 
 // while --> a condição será testada no início de cada iteração do loop
 
+let numeroInicial = 1;
+
+while (numeroInicial <= 10) {
+    console.log('O número é...: ', numeroInicial);
+    numeroInicial++;
+} 
 
 // do-while --> sempre será executado uma vez 
 
+let numeroInicial = 1;
+
+do {
+    console.log('O número é...: ', numeroInicial);
+    numeroInicial++;
+} while (numeroInicial <= 10);

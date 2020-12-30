@@ -8,9 +8,9 @@
 // switch-case
 
 let qualDataHoje = new Date();
-	
-switch(qualDataHoje.getDay()) {
-	case 0:
+
+switch (qualDataHoje.getDay()) {
+    case 0:
 		console.log("Hoje é Domingo.");
 		break;
 	case 1:
@@ -30,7 +30,7 @@ switch(qualDataHoje.getDay()) {
 		break;
 	case 6:
 		console.log("Hoje é Sábado.");
-		break;      
+		break;   
 	default:
 		console.log("Nenhuma data relacionada foi encontrada!");
 		break;
