@@ -7,17 +7,6 @@
 
 // ==> join();
 
-/* let eletrodomesticos = [
-    'Televisão', 
-    'Geladeira', 
-    'Fogão', 
-    'Microondas'
-];
-
-console.log(eletrodomesticos.join(' - ')); */
-
-// ==> slice();
-/* 
 let eletrodomesticos = [
     'Televisão', 
     'Geladeira', 
@@ -25,32 +14,43 @@ let eletrodomesticos = [
     'Microondas'
 ];
 
-console.log(eletrodomesticos.slice(1)); */
+console.log(eletrodomesticos.join(' - '));
 
-// ==> concat();
-
-/* let array_1 = [1,2,3,4,5];
-let array_2 = [6,7,8,9,10];
-
-let conjuntoNumeros = array_1.concat(array_2);
-
-console.log(conjuntoNumeros); */
-
-// ==> length
-
-/* let eletrodomesticos = [
+// ==> slice();
+ 
+let eletrodomesticos = [
     'Televisão', 
     'Geladeira', 
     'Fogão', 
     'Microondas'
 ];
 
-console.log(eletrodomesticos.length); */
+console.log(eletrodomesticos.slice(1));
+
+// ==> concat();
+
+let array_1 = [1,2,3,4,5];
+let array_2 = [6,7,8,9,10];
+
+let conjuntoNumeros = array_1.concat(array_2);
+
+console.log(conjuntoNumeros); 
+
+// ==> length
+
+let eletrodomesticos = [
+    'Televisão', 
+    'Geladeira', 
+    'Fogão', 
+    'Microondas'
+];
+
+console.log(eletrodomesticos.length);
 
 
 // ==> indexOf();
 
-/* let eletrodomesticos = [
+let eletrodomesticos = [
     'Televisão', 
     'Geladeira', 
     'Fogão', 
@@ -58,7 +58,7 @@ console.log(eletrodomesticos.length); */
 ];
 
 let posicaoEletrodomestico = eletrodomesticos.indexOf('Microondas');
-console.log(posicaoEletrodomestico); */
+console.log(posicaoEletrodomestico);
 
 
 // ==> lastIndexOf()
