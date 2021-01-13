@@ -2,18 +2,34 @@
  * arquivo: objetosJavaScript.js
  * descrição: explicação de como podemos usar Objetos em JavaScript
  * author: Glaucia Lemos - twitter: glaucia_lemos86
- * data: 15/01/2021
+ * data: 18/01/2021
  */
 
-/* let variavelGlobal = 'Oi! Eu sou uma variável Global!';
+// ==> Objetos
+/* 
+let pessoa = {
+    nome: 'Glaucia',
+    sobrenome: 'Lemos',
+    idade: 34,
+    profissao: 'Cloud Advocate',
+    empresa: 'Microsoft'
+};
 
-function novoEscopo(){
-    let funcaoVariavelEscopo = 'Eu moro no escopo da função novoEscopo';
-}
+console.log(pessoa); */
 
-variavelGlobal; // "Oi! Eu sou uma variável Global!";
-novoEscopo(); 
+// Brackets (Colchetes) vs Dot (ponto) notation
 
-funcaoVariavelEscopo; 
- */
+let pessoa = {
+    nome: 'Glaucia',
+    sobrenome: 'Lemos',
+    idade: 34,
+    profissao: 'Cloud Advocate',
+    empresa: 'Microsoft'
+};
+
+// let listarProfissao = pessoa.profissao;
+let listarProfissao = pessoa['profissao'];
+let idadeFuncionario = pessoa.idade;
+
+console.log(idadeFuncionario);
 
