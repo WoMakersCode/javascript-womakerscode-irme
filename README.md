@@ -22,6 +22,15 @@ Para prosseguir no Curso de JavaScript, se faz necessário realizar download dos
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-12143-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
 
+## 📕 Projeto Final!
+
+Para facilitar todas vocês, resolvi escrever em forma de artigo, o projeto final. Assim, vocês poderão desenvolver o passo a passo o projeto.
+Porém, caso vocês tenham dúvidas a respeito do desenvolvimento do projeto, não se hesitem de me procurarem nas principais mídias sociais, como: Linkedin e Twitter, que estarei disponível para ajudar vocês.
+
+Link do Artigo: **[Desenvolvendo a Intro do Star Wars com HTML, CSS, JavaScript & Node.js!](https://dev.to/azure/desenvolvendo-a-intro-do-star-wars-com-html-css-javascript-node-js-oae)**
+
+Link do código final: **[AQUI](https://github.com/glaucia86/intro-starwars-app)**
+
 ## ❓Tenho Dúvidas... O que Faço?! 
 
 Caso tenham dúvidas aos códigos dos exemplos relacionados ao curso, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/WoMakersCode/javascript-womakerscode-irme/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
